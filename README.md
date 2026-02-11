@@ -1,15 +1,14 @@
-# BudgetPlanningAndCostSavings
-
-
-# Financial Data Analysis For  
-# Budget Planning And Cost Savings Strategy  
+ # Budget Planning And Cost Savings Strategy  
+This project analyzes financial data across products and regions to evaluate revenue, expenses, and profitability trends.
+It identifies seasonal sales patterns, cost drivers, and manufacturing cost changes between 2013 and 2014.
+The insights support budget planning, cost reduction strategies, and profit maximization decisions.
 
 
 # BUSINESS UNDERSTANDING  
 
 ## PROBLEM STATEMENT
-- The organization wants to understand the financial visibility across products and regions. To do this we need to analyze the revenues, expenses and profits across the different products and country as well as the seasonal sales behavior.  
-- This analysis will help identify cost saving opportunities and the areas of profit maximization.  
+The organization wants to understand the financial visibility across products and regions. To do this we need to analyze the revenues, expenses and profits across the different products and country as well as the seasonal sales behavior.  
+This analysis will help identify cost saving opportunities and the areas of profit maximization.  
 
 ## GOALS
 1. Analyze Profit Trends over time  
