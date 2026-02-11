@@ -78,4 +78,3 @@ This analysis will help identify cost saving opportunities and the areas of prof
   - Alternatively, you may use Paseo (the best selling) as a process benchmark to examine if the production process of a certain product has loopholes and how to correct it.  
 
 **Thank you**
-```
