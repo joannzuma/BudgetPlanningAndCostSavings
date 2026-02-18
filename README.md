@@ -53,8 +53,6 @@ This analysis will help identify cost saving opportunities and the areas of prof
 - VTT and Amarilla had the largest increase in manufacturing cost:  
   - Amarilla: from $6K to $20K (+230%)  
 - Paseo is the most efficient and profitable product, leading in countries such as Canada and the United States.  
-
-### Cont.…
 - October is the best-selling month in majority of the countries with leading sales in Germany and France.  
 - Significantly low sales In both Q1 and Q2 in majority of the countries.  
 - The sales pattern in the USA are fairly stable with an increase towards Q4.  
@@ -77,4 +75,3 @@ This analysis will help identify cost saving opportunities and the areas of prof
   - With the lowest sales at 12%, reassess its market fit or consider relocating its resources to high performing products.  
   - Alternatively, you may use Paseo (the best selling) as a process benchmark to examine if the production process of a certain product has loopholes and how to correct it.  
 
-**Thank you**
